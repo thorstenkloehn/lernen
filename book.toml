@@ -1,0 +1,7 @@
+[book]
+authors = []
+language = "de"
+multilingual = false
+src = "src"
+[output.html.playground]
+editable = true
