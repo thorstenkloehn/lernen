@@ -10,9 +10,12 @@
 ## Java
 * [Allgemein Java](https://www.tutorialspoint.com/java)
 * [Die komplette Java 11 Masterclass -von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/java-11-masterclass/)
-## Kotlin
-* [Allgemein](https://www.tutorialspoint.com/kotlin)
-* [Die komplette Android 11 & Kotlin Entwickler Masterclass](https://www.udemy.com/course/die-komplette-android-masterclass/)
+
+## C#
+
+* [Allgemein C#](https://www.tutorialspoint.com/csharp)
+* [Die komplette C# Masterclass - von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/die-komplette-csharp-masterclass/)
+
 ## Rust
 * [Allgemein Rust](https://www.tutorialspoint.com/rust)
 * [Rustbook](https://rust-lang-de.github.io/rustbook-de/)

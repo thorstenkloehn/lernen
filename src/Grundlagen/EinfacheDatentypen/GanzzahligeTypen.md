@@ -20,7 +20,18 @@
 |long long int|8 Bytes|	-(2^63) bis (2^63)-1|
 |unsigned long long int| 8 Bytes|	0 bis 18,446,744,073,709,551,615|
 
+## C#
 
+| Art       | Speichergröße          | Wertebereich  |
+| ------------- |:-------------:| -----:|
+|byte|	8 Bit|	0 bis 255|
+|int| 32 Bit|-2,147,483,648 bis 2,147,483,647|
+|sbyte| 8 Bit|-128 to 127|
+|long|64 Bit|-9,223,372,036,854,775,808 bis 9,223,372,036,854,775,807|
+|short|	16 Bit |	-32,768 bis 32,767|	
+|uint|32 Bit |0 bis 4,294,967,295|
+|ulong|64 Bit |	0 bis 18,446,744,073,709,551,615|
+|ushort|16 Bit |0 bis 65,535|
 
 ## Java 
 

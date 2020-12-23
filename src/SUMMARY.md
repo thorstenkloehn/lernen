@@ -14,6 +14,8 @@
        - [Aufzählungstypen](./Grundlagen/EinfacheDatentypen/Aufzaehlungstypen.md)
        - [Leeredatentypen](./Grundlagen/EinfacheDatentypen/Leeredatentypen.md)
        - [Zeichen](./Grundlagen/EinfacheDatentypen/zeichen.md)
+      - [Zeigertypen](./Grundlagen/Zeigertypen.md)
+        - [Einfache Zeiger](./Grundlagen/Zeiger/EinfacheZeiger.md)
      - [Struct](./Grundlagen/struct/struct.md)
      - [Datensatz](./Grundlagen/Datensatz.md)
     

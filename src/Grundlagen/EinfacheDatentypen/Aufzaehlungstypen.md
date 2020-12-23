@@ -90,3 +90,18 @@ public class Main {
 
 
 ```
+
+### C#
+
+```cs
+ enum JAHRZEIT
+        {
+            FRUWHJAHR,
+            SOMMER,
+            HERBST,
+            WINTER,
+        }
+
+
+
+```

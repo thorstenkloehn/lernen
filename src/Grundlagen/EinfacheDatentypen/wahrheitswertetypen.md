@@ -21,6 +21,14 @@ wahreitswert = false;
          
 ```
 
+## C#
+
+```cs
+
+bool wahrheitwert;
+
+
+```
 
 
 
