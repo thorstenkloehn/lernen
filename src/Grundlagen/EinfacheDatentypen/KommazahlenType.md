@@ -16,11 +16,7 @@
 |float|	4 Bytes|
 |double|	8 Bytes|
 
-## Kotlin
-| Art       | Speichergröße          | 
-| ------------- |:-------------:|
-|float|	4 Bytes|
-|double|	8 Bytes|
+
 
 ## Rust
 | Art       | Speichergröße          | 

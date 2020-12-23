@@ -21,18 +21,7 @@ wahreitswert = false;
          
 ```
 
-## Kotlin 
 
-```kotlin
-
-fun main(args: Array<String>) {
-
-    val wert = true
-    var test = false
-
-}
-
-```
 
 
 ## Javascript

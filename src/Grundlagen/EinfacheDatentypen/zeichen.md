@@ -48,12 +48,3 @@ fn main() {
 
 ## kotlin 
 
-```kotlin
-
-fun main(args: Array<String>) {
-    val ausgabe : Char = 't'
-    println("Hello World! $ausgabe")
-}
-
-
-```
