@@ -5,6 +5,10 @@
 
 ## Grundlagen 
 
+- [Installieren]()
+  - [Windows](./Installieren/Windows.md)
+  - [Server](./Installieren/Server.md)
+
 - [Grundlagen]()
   - [Datentypen](./Grundlagen/Datentypen.md)
     - [Einfache Datentypen](./Grundlagen/EinfacheDatentypen/EinfacheDatentypen.md)
@@ -32,6 +36,8 @@
 - [OOP]()
    - [Klasse]()
    - [Klassenlose OOP]()
+  
+- [Postgres]()
 
 ## Webprogrammierung
 
