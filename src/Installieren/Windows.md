@@ -131,14 +131,9 @@ idea.plugins.path = e:/work/idea/plugins/path
 idea.log.path = e:/work/idea/log/path
 ```
 
-####  IntelliJ Rider Einstellung
-```
-idea.config.path = e:/rider/idea/config/path
-idea.system.path = e:/rider/idea/system/path
-idea.plugins.path = e:/rider/idea/plugins/path
-idea.log.path = e:/rider/idea/log/path
-```
+
 
 ## Datenbank
 
 * [postgresql](https://www.postgresql.org/download/)
+* [Neo4j](https://neo4j.com/download-center/?ref=web-product-database/#community)
