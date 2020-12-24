@@ -5,9 +5,7 @@
 ```
 set CARGO_HOME = PATH
 set RUSTUP_HOME = PATH
-set NUGET_PACKAGES = PATH
-set NUGET_HTTP_CACHE_PATH = PATH
-set NUGET_PLUGINS_CACHE_PATH = PATH
+
 
 ``` 
 
@@ -49,7 +47,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Nodjes Installieren](https://nodejs.org/en/download/)
 * [Python](https://www.python.org/downloads/)
 * [Java](https://aws.amazon.com/de/corretto/)
-* [Dotnet](https://dotnet.microsoft.com/)
+
 
 ## Java
 
@@ -107,7 +105,7 @@ set M2_HOME = PATH
 
 * [Clion](https://www.jetbrains.com/clion/)
 * [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)
-* [Rider](https://www.jetbrains.com/rider/)
+
 
 
 #### Clion Einstellung

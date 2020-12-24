@@ -17,11 +17,3 @@ void start() {}
 
 ```
 
-## C#  
-
-
-```
-public void test() {
-} 
-
-```

@@ -16,11 +16,6 @@
 |float|	4 Bytes|
 |double|	8 Bytes|
 
-## C#
-| Art       | Speichergröße          | 
-| ------------- |:-------------:|
-|float|	4 Bytes|
-|double|	8 Bytes|
 
 ## Rust
 | Art       | Speichergröße          | 
