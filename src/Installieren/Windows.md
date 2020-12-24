@@ -47,7 +47,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Nodjes Installieren](https://nodejs.org/en/download/)
 * [Python](https://www.python.org/downloads/)
 * [Java](https://aws.amazon.com/de/corretto/)
-
+* [R]()
 
 ## Java
 
