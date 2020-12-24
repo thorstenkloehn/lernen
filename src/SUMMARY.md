@@ -8,6 +8,8 @@
 - [Installieren]()
   - [Windows](./Installieren/Windows.md)
   - [Server](./Installieren/Server.md)
+  - [Linux Deskop](./Installieren/LinuxDeskop.md)
+  - [Frontend](./Installieren/Frontend.md)
 
 - [Grundlagen]()
   - [Datentypen](./Grundlagen/Datentypen.md)

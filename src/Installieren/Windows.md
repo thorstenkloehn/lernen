@@ -1,6 +1,6 @@
 # Windows
 
-## Einstellun
+## Einstellung
 
 ```
 set CARGO_HOME = PATH
