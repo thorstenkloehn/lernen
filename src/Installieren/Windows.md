@@ -137,3 +137,12 @@ idea.log.path = e:/work/idea/log/path
 
 * [postgresql](https://www.postgresql.org/download/)
 * [Neo4j](https://neo4j.com/download-center/?ref=web-product-database/#community)
+
+
+## Data Warehouse
+
+* Apache Hive
+
+## Verteilte Rechner
+
+* Apache Hadpoop

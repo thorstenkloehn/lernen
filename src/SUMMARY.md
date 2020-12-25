@@ -8,6 +8,7 @@
 - [Installieren]()
   - [Windows](./Installieren/Windows.md)
   - [Server](./Installieren/Server.md)
+    - [Hadoop](./Installieren/Hadoop.md)
   - [Linux Deskop](./Installieren/LinuxDeskop.md)
   - [Frontend](./Installieren/Frontend.md)
 
