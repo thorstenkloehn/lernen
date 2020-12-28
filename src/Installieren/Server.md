@@ -10,11 +10,34 @@ apt-get install  gnupg
 
 ## Datenbank
 
+### Postgresql
 ```
 
 sudo apt-get install postgresql postgresql-client postgis
 
 ```
+### Mysql
+
+```
+wget -c https://dev.mysql.com/get/mysql-apt-config_0.8.13-1_all.deb
+apt-get install  gnupg
+sudo dpkg -i mysql-apt-config*
+sudo apt update
+sudo apt-get install mysql-server
+sudo systemctl enable mysql
+sudo nano /etc/mysql/mysql.conf.d/mysqld.cnf
+-------------------Datei mysqld.cnf --------------
+[mysqld]
+bind-address = 0.0.0.0
+-------------------Datei mysqd ende----------------
+mysql -u root -p
+use mysql;
+update user set host='%' where user='eigene Benutzername';
+update db set host='%' where user='euer_benutzer';
+sudo service mysql restart
+
+```
+
 ## systemctl / systemd richtig verwenden
 
 ### Erstellen von Dienste
