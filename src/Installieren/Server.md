@@ -37,6 +37,11 @@ update db set host='%' where user='euer_benutzer';
 sudo service mysql restart
 
 ```
+### monodb 
+
+* [Download](https://https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
+### Cassandra
 
 ## systemctl / systemd richtig verwenden
 

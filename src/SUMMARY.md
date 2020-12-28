@@ -9,6 +9,7 @@
   - [Windows](./Installieren/Windows.md)
   - [Server](./Installieren/Server.md)
     - [Hadoop](./Installieren/Hadoop.md)
+    - [Apache Zeppelin](./Installieren/ApacheZeppelin.md)
   - [Linux Deskop](./Installieren/LinuxDeskop.md)
   - [Frontend](./Installieren/Frontend.md)
 
