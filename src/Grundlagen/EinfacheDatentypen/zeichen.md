@@ -20,28 +20,4 @@ func main() {
 
 
 ```
-## C+
 
-```cpp
-#include <iostream>
-
-char zahl = 't';
-
-int main() {
-
-
-    std::cout << zahl << std::endl;
-    return 0;
-}
-
-
-```
-## Rust 
-
-````rust
-fn main() {
-    let c:char ='t';
-    println!("Zeichen {}",c);
-}
-
-````

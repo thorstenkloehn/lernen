@@ -1,15 +1,7 @@
 # Wahrheitswerte Typen
 
 
-## C++
 
-```cpp
-
-bool wahrheitwert;
-wahrheitwert = true;  //wahr
-wahrheitwert = false;  //falsch
-
-```
 
 ## Java
 

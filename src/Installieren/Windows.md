@@ -2,12 +2,7 @@
 
 ## Einstellung
 
-```
-set CARGO_HOME = PATH
-set RUSTUP_HOME = PATH
 
-
-``` 
 
 ## Grundlagenn Programme
 
@@ -29,7 +24,7 @@ set RUSTUP_HOME = PATH
 
 ### Allgemeine Module
 
-* [Visual Studio building](https://visualstudio.microsoft.com/de/downloads/)
+
 * [Msys2](https://www.msys2.org/)
 * [MSYS2 Packages](https://packages.msys2.org/updates)
 
@@ -42,12 +37,11 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 
 ## Programmiersprachen
 
-* [Rust](https://www.rust-lang.org/tools/install)
 * [Go Installieren](https://golang.org)
 * [Nodjes Installieren](https://nodejs.org/en/download/)
 * [Python](https://www.python.org/downloads/)
 * [Java](https://aws.amazon.com/de/corretto/)
-* [R](https://cran.r-project.org)
+
 
 ## Java
 
@@ -103,21 +97,12 @@ set M2_HOME = PATH
 
 ### Software
 
-* [Clion](https://www.jetbrains.com/clion/)
+
 * [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)
 
 
 
-#### Clion Einstellung
 
-```
-
-idea.config.path = e:/clion/work/idea/config/path
-idea.system.path = e:/clion/work/idea/system/path
-idea.plugins.path = e:/clion/work/idea/plugins/path
-idea.log.path = e:/clion/work/idea/log/path
-
-```
 
 #### IntelliJ IDEA Einstellung
 

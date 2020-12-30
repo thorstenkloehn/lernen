@@ -2,45 +2,7 @@
 
 ## Enum
 
-C++
 
-```cpp
-
-#include <iostream>
-
-enum JAHRZEITEN {FRUEJAHR,SOMMER,HERBST,WINTER};
-
-using namespace std;
-int main() {
-
-    JAHRZEITEN jetzt;
-    jetzt = SOMMER;
-    switch (jetzt) {
-        case  FRUEJAHR: {
-             cout << "Frühjahr" << endl;
-             break;
-        }
-        case SOMMER: {
-            cout << "Sommer" << endl;
-            break;
-        }
-
-        case HERBST: {
-            cout << "Herbst" << endl;
-        }
-
-        case WINTER: {
-            cout << "Winter" << endl;
-        }
-
-        default: {
-            cout << "Keine Daten Vorhanden" << endl;
-        }
-
-    }
-    return 0;
-}
-```
 
 ### JAVA
 

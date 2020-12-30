@@ -1,14 +1,6 @@
 # Kommazahlen Typen
 
 
-## C++ 
-
-| Art       | Speichergröße          | 
-| ------------- |:-------------:|
-|float|	4 Bytes|
-|double|	8 Bytes|
-|long double|12 Bytes|	
-
 
 ## JAVA
 | Art       | Speichergröße          | 
@@ -17,11 +9,6 @@
 |double|	8 Bytes|
 
 
-## Rust
-| Art       | Speichergröße          | 
-| ------------- |:-------------:|
-|f32|	4 Bytes|
-|f64|	8 Bytes|
 
 ## Go
 | Art       | Speichergröße          | 
