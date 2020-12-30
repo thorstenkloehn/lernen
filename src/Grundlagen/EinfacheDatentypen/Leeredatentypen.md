@@ -1,15 +1,5 @@
 # Leeredatentypen
 
-
-
-## C++
-
-```cpp
-
-void start(){}
-
-```
-
 ## java 
 
 ```java
