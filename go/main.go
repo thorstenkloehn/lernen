@@ -4,8 +4,9 @@ import "fmt"
 
 func main() {
 
-	zahl := 100
-	adresse := &zahl
+	eingabe := []string{"Thomas","Thorsten","Steffi","Papa"}
+	eingabe = append(eingabe,"hhhhh")
+	fmt.Println(eingabe)
 
-	fmt.Println("Hallo Leute", *adresse)
+
 }
