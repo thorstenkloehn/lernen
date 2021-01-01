@@ -5,6 +5,11 @@ public class main {
         return 't';
     }
     public static void main(String[] args) {
-        System.out.println("Hallo Welt."+ testseite());
+        int[] ausgabe = new int[]{10,20,30,40};
+
+
+
+
+
     }
 }

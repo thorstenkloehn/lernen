@@ -2,6 +2,13 @@
 
 ## Einstellung
 
+```
+
+setx CARGO_HOME = e:\CARGO_HOME
+setx RUSTUP_HOME = e:\RUSTUP_HOME
+
+
+```
 
 
 ## Grundlagenn Programme
@@ -99,7 +106,7 @@ set M2_HOME = PATH
 
 
 * [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)
-
+* [Clion](https://www.jetbrains.com/clion/)
 
 
 
@@ -114,6 +121,16 @@ idea.config.path = e:/work/idea/config/path
 idea.system.path = e:/work/idea/system/path
 idea.plugins.path = e:/work/idea/plugins/path
 idea.log.path = e:/work/idea/log/path
+```
+#### Clion Einstellung
+
+```
+
+idea.config.path = e:/clion/work/idea/config/path
+idea.system.path = e:/clion/work/idea/system/path
+idea.plugins.path = e:/clion/work/idea/plugins/path
+idea.log.path = e:/clion/work/idea/log/path
+
 ```
 
 
