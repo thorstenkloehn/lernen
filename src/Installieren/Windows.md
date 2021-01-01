@@ -31,7 +31,7 @@ setx RUSTUP_HOME = e:\RUSTUP_HOME
 
 ### Allgemeine Module
 
-
+* [Anaconda](https://www.anaconda.com/)
 * [Msys2](https://www.msys2.org/)
 * [MSYS2 Packages](https://packages.msys2.org/updates)
 
@@ -46,7 +46,6 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 
 * [Go Installieren](https://golang.org)
 * [Nodjes Installieren](https://nodejs.org/en/download/)
-* [Python](https://www.python.org/downloads/)
 * [Java](https://aws.amazon.com/de/corretto/)
 
 
