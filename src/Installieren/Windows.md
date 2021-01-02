@@ -32,6 +32,7 @@ setx RUSTUP_HOME = e:\RUSTUP_HOME
 ### Allgemeine Module
 
 * [Anaconda](https://www.anaconda.com/)
+* [visual Cpp Build Tools]( https://visualstudio.microsoft.com/visual-cpp-build-tools/)  
 * [Msys2](https://www.msys2.org/)
 * [MSYS2 Packages](https://packages.msys2.org/updates)
 
@@ -47,7 +48,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Go Installieren](https://golang.org)
 * [Nodjes Installieren](https://nodejs.org/en/download/)
 * [Java](https://aws.amazon.com/de/corretto/)
-
+* [Rust](https://forge.rust-lang.org/infra/other-installation-methods.html)
 
 ## Java
 
