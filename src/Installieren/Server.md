@@ -5,20 +5,6 @@ sudo apt-get update
 sudo apt-get upgrade
 apt-get install  gnupg
 
-
-```
-### Anaconda 
-
-```
-wget https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh
-chmod a+x Anaconda3-2020.11-Linux-x86_64.sh
-./Anaconda3-2020.11-Linux-x86_64.sh
-
-
-
-
-
-
 ```
 ### JAVA 
 
@@ -45,7 +31,7 @@ export PDSH_RCMD_TYPE=ssh
 export JAVA_HOME=/usr/java/amazon-corretto-8.275.01.1-linux-x64
 export GOROOT=/usr/local/go
 export GOPATH=/go
-export PATH=$GOPATH/bin:$GOROOT/bin:$JAVA_HOME/bin:/root/anaconda3/bin:$PATH
+export PATH=$GOPATH/bin:$GOROOT/bin:$JAVA_HOME/bin:$PATH
 ---Datei ende---
 source  /etc/bash.bashrc
 
