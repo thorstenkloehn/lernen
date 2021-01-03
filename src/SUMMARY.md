@@ -11,6 +11,7 @@
     - [Hadoop](./Installieren/Hadoop.md)
     - [Minio Server](./Installieren/MinioServer.md) 
     - [Apache Zeppelin](./Installieren/ApacheZeppelin.md)
+    - [Kerberos](./Installieren/Kerberos.md)
   - [Linux Deskop](./Installieren/LinuxDeskop.md)
   - [Frontend](./Installieren/Frontend.md)
 
