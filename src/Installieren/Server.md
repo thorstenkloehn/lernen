@@ -56,7 +56,9 @@ sudo apt-get install postgresql postgresql-client postgis
 
 * [Download](https://https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
 
+### Neo4j
 
+* [Download](https://neo4j.com/download-center/?ref=web-product-database/#community)
 
 ## systemctl / systemd richtig verwenden
 
