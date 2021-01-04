@@ -39,8 +39,7 @@ source  /etc/bash.bashrc
 ## MySQL
 
 ```
-wget -c https://dev.mysql.com/get/mysql-apt-config_0.8.13-1_all.deb
-apt-get install  gnupg
+wget -c https://dev.mysql.com/get/mysql-apt-config_0.8.16-1_all.deb
 sudo dpkg -i mysql-apt-config*
 sudo apt update
 sudo apt-get install mysql-server
@@ -52,6 +51,12 @@ sudo apt-get install mysql-server
 ```
 sudo apt-get install postgresql postgresql-client postgis
 ```
+
+### monodb
+
+* [Download](https://https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/)
+
+
 
 ## systemctl / systemd richtig verwenden
 
