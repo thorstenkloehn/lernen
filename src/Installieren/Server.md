@@ -36,9 +36,22 @@ export PATH=$GOPATH/bin:$GOROOT/bin:$JAVA_HOME/bin:$PATH
 source  /etc/bash.bashrc
 
 ```
+## MySQL
 
+```
+wget -c https://dev.mysql.com/get/mysql-apt-config_0.8.13-1_all.deb
+apt-get install  gnupg
+sudo dpkg -i mysql-apt-config*
+sudo apt update
+sudo apt-get install mysql-server
 
+```
 
+## PostgreSQL
+
+```
+sudo apt-get install postgresql postgresql-client postgis
+```
 
 ## systemctl / systemd richtig verwenden
 
