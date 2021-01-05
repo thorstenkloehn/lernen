@@ -18,19 +18,8 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'Test';
 
 ```
 
-## Dienst
 
-```
-bin\mysqladmin  -u root shutdown
-bin\mysqld --install
-bin\mysqld" --install-manual
-```
-## Dienst löschen 
-```
-mysqld --remove 
-
-```
 
 ## Weblink
 
-* [MySQL](https://dev.mysql.com/downloads/)
+* [MySQL](https://dev.mysql.com/doc/refman/8.0/en/windows-install-archive.html)
