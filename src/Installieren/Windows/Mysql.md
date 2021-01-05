@@ -1,6 +1,6 @@
 # Mysql
 
-* [Download](https://de.wikipedia.org/wiki/MySQL)
+* [Download](https://dev.mysql.com/downloads/)
 
 ## Datenverzeichnis Initialisieren
 
@@ -15,6 +15,19 @@ mysql -u root --skip-password
 ---------------------------------
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'root-password';
 ----------------------------------
+
+```
+
+## Dienst
+
+```
+bin\mysqladmin  -u root shutdown
+bin\mysqld --install
+bin\mysqld" --install-manual
+```
+## Dienst löschen 
+```
+mysqld --remove 
 
 ```
 
