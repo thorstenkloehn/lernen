@@ -135,8 +135,7 @@ idea.log.path = e:/clion/work/idea/log/path
 
 
 ## Datenbank
-
+* [Mysql](https://dev.mysql.com/doc/refman/8.0/en/windows-install-archive.html)
 * [postgresql](https://www.postgresql.org/download/)
-* [Neo4j](https://neo4j.com/download-center/?ref=web-product-database/#community)
 * [MongoDB]()
 * [Apache Cassandra]()

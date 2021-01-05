@@ -7,6 +7,7 @@
 
 - [Installieren]()
   - [Windows](./Installieren/Windows.md)
+    - [Mysql](./Installieren/Windows/Mysql.md)
   - [Server](./Installieren/Server.md)
     - [Hadoop](./Installieren/Hadoop.md)
     - [Minio Server](./Installieren/MinioServer.md) 
