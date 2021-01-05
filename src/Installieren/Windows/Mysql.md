@@ -13,7 +13,7 @@ bin\mysqld --console
 mysql -u root --skip-password
 
 ---------------------------------
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'root-password';
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Test';
 ----------------------------------
 
 ```
