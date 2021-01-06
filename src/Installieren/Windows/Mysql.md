@@ -18,6 +18,14 @@ ALTER USER 'root'@'localhost' IDENTIFIED BY 'Test';
 
 ```
 
+### Dienste Starten
+
+```
+
+bin\mysqld --install
+
+
+```
 
 
 ## Weblink

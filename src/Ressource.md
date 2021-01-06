@@ -23,11 +23,22 @@
 
 ## Datenbank
 
+### Mysql 
+
+
 ### PostgreSQL Datenbank
 
 * [PostgreSQL Allgemein](https://www.tutorialspoint.com/postgresql/)
 * [Die komplette SQL Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/sql-komplett/)
 
 ### MongoDB
+
+* [Monodb](https://www.tutorialspoint.com/mongodb)
+
 ### Cassandra
+
+* [Cassandra](https://www.tutorialspoint.com/cassandra)
+
 ### Neo4j
+
+* [Allgemein Neo4j](https://www.tutorialspoint.com/neo4j)
