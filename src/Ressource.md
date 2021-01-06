@@ -29,6 +29,7 @@
 ### PostgreSQL Datenbank
 
 * [PostgreSQL Allgemein](https://www.tutorialspoint.com/postgresql/)
+* [Mysql Allgemein](https://www.tutorialspoint.com/mysql)  
 * [Die komplette SQL Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/sql-komplett/)
 
 ### MongoDB
