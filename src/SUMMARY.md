@@ -32,14 +32,10 @@
      - [Datensatz](./Grundlagen/Datensatz.md)
     
   - [Programmfluss]()
-    - [Entscheidung und Logik]()
+    - [Entscheidung und Logik](./Grundlagen/Programmfluss/Entscheidung_und_Logik.md)
     - [Schleifen]()
     
-  - [Funktion]()   
-     - [Lambda-Funktion]()
-     - [Inline Funktion]()
-     - [async function ]()
-     - [Anonyme Funktion]()
+  - [Funktion]()
   
 - [OOP]()
    - [Klasse]()

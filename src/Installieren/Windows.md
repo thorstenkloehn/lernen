@@ -135,11 +135,6 @@ idea.log.path = e:/clion/work/idea/log/path
 
 
 ## Datenbank
-* [Mysql]()
 * [postgresql](https://www.postgresql.org/download/)
-* [MongoDB]()
- ``` 
- mongod --dbpath "c:\mymongodb" --logpath "c:\mymongodb\logs.txt" --install --serviceName "MongoDB"
- ```
 * [Apache Cassandra]()
 * [Neo4j](https://neo4j.com/download-center/?ref=web-product-database/#community)
