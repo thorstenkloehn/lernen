@@ -29,6 +29,10 @@
 * [Java](https://de.wikibooks.org/wiki/Java_Standard:_JDBC)
 * [Python](https://www.w3schools.com/python/python_mysql_getstarted.asp)
 
+### ORM
+
+* [GORM](https://gorm.io/)
+
 #### Mysql 
 
 * [Mysql Allgemein](https://www.tutorialspoint.com/mysql)
