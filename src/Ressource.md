@@ -23,10 +23,17 @@
 
 ## Datenbank
 
-### Mysql 
+### Relationale Datenbank
+
+* [Go](http://go-database-sql.org/])
+* [Java](https://de.wikibooks.org/wiki/Java_Standard:_JDBC)
+* [Python](https://www.w3schools.com/python/python_mysql_getstarted.asp)
+
+#### Mysql 
 
 * [Mysql Allgemein](https://www.tutorialspoint.com/mysql)
-### PostgreSQL Datenbank
+
+#### PostgreSQL Datenbank
 
 * [PostgreSQL Allgemein](https://www.tutorialspoint.com/postgresql/)
 
