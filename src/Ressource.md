@@ -32,6 +32,8 @@
 ### ORM
 
 * [GORM](https://gorm.io/)
+* [Sqlalchemy](https://www.tutorialspoint.com/sqlalchemy)
+* [Hibernate](https://www.tutorialspoint.com/hibernate)
 
 #### Mysql 
 
