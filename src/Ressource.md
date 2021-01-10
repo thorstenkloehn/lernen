@@ -25,7 +25,7 @@
 
 ### Relationale Datenbank
 
-* [Go](http://go-database-sql.org/])
+* [Go](http://go-database-sql.org/)
 * [Java](https://de.wikibooks.org/wiki/Java_Standard:_JDBC)
 * [Python](https://www.w3schools.com/python/python_mysql_getstarted.asp)
 
