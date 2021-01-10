@@ -30,7 +30,7 @@
 ```python
 zahl = 100
 
-if (zahl == 100):
+if zahl == 100:
     print("Test Seite")
 
 
