@@ -3,17 +3,6 @@
 
 ## Go
 
-## Java
-
-``` java
-
-boolean wahreitswert ;
-wahreitswert = true;
-wahreitswert = false;
-         
-```
-
-
 
 
 

@@ -2,16 +2,7 @@
 
 ## if-Anweisung
 
-### Java
 
-```java
-
- String ausgabe = "Text";
-        if (ausgabe=="Text") {
-            System.out.println("Text bestanden");
-        }
-
-```
 
 ### Go
 

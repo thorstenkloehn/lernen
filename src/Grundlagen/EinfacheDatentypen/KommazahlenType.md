@@ -1,15 +1,6 @@
 # Kommazahlen Typen
 
 
-
-## JAVA
-| Art       | Speichergröße          | 
-| ------------- |:-------------:|
-|float|	4 Bytes|
-|double|	8 Bytes|
-
-
-
 ## Go
 | Art       | Speichergröße          | 
 | ------------- |:-------------:|

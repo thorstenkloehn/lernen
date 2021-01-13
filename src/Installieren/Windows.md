@@ -46,58 +46,8 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 
 * [Go Installieren](https://golang.org)
 * [Nodjes Installieren](https://nodejs.org/en/download/)
-* [Java](https://aws.amazon.com/de/corretto/)
 * [Rust](https://forge.rust-lang.org/infra/other-installation-methods.html)
 * [Python](https://www.python.org/downloads/)
-## Java
-
-#### Java Build
-##### Gradle Installieren
-
-###### Test
-
-
-```
-
-java -v 
-
-
-```
-
-###### Herunderladen
-
-* [Gradle Installieren Anleitung](https://gradle.org/install/)
-
-###### Einstellung
-
-```
-
-set GRADLE_HOME = PATH
-
-
-
-```
-
-##### Maven Installieren
-
-###### Test
-
-```
-java -v
-
-```
-
-###### Herunderladen
-
-* [Maven Download](http://maven.apache.org/download.cgi)
-
-###### Einstellung
-
-```
-
-set M2_HOME = PATH
-
-```
 
 ## IDE
 

@@ -10,7 +10,6 @@
 ## Datenbank Beispiele
 
 * [Go](https://github.com/thorstenkloehn/go)
-* [Java](https://github.com/thorstenkloehn/Java)
 * [Python](https://github.com/thorstenkloehn/Python)
 
 

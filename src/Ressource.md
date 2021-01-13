@@ -1,12 +1,5 @@
 # Ressource
 
-## Java
-* [Allgemein Java](https://www.tutorialspoint.com/java)
-* [Die komplette Java 11 Masterclass -von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/java-11-masterclass/)
-* [Spring boot](https://www.tutorialspoint.com/spring_boot)
-* [Spring Mvc](https://www.tutorialspoint.com/springmvc)
-* [Thymeleaf]()
-
 
 ## Go
 
@@ -28,14 +21,12 @@
 ### Relationale Datenbank
 
 * [Go](http://go-database-sql.org/)
-* [Java](https://de.wikibooks.org/wiki/Java_Standard:_JDBC)
 * [Python](https://www.w3schools.com/python/python_mysql_getstarted.asp)
 
 ### ORM
 
 * [GORM](https://gorm.io/)
 * [Sqlalchemy](https://www.tutorialspoint.com/sqlalchemy)
-* [Hibernate](https://www.tutorialspoint.com/hibernate)
 
 #### Mysql 
 

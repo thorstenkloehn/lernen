@@ -6,14 +6,7 @@ sudo apt-get upgrade
 apt-get install  gnupg
 
 ```
-### JAVA 
 
-```
-
-wget https://corretto.aws/downloads/latest/amazon-corretto-8-x64-linux-jdk.tar.gz
-mkdir /usr/java
-sudo tar -C /usr/java -xzf amazon-corretto-8-x64-linux-jdk.tar.gz
-```
 ### Go
 
 ```
@@ -51,7 +44,6 @@ sudo apt-get install mysql-server
 ```
 sudo apt-get install postgresql postgresql-client postgis
 ```
-## Cassandra
 
 ### monodb
 

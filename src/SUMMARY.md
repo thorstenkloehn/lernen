@@ -10,10 +10,7 @@
     - [Mysql](./Installieren/Windows/Mysql.md)
     - [Monodb](./Installieren/Windows/Monodb.md)
   - [Server](./Installieren/Server.md)
-    - [Hadoop](./Installieren/Hadoop.md)
-    - [Minio Server](./Installieren/MinioServer.md) 
-    - [Apache Zeppelin](./Installieren/ApacheZeppelin.md)
-    - [Kerberos](./Installieren/Kerberos.md)
+    - [Minio Server](./Installieren/MinioServer.md)
   - [Linux Deskop](./Installieren/LinuxDeskop.md)
   - [Frontend](./Installieren/Frontend.md)
 
