@@ -53,12 +53,7 @@ sudo apt-get install cmake gcc clang gdb build-essential git-core
 ```
 
 
-### Python
 
-```
-sudo apt-get install python3  python3-pip
-
-```
 
 
 ## IDE

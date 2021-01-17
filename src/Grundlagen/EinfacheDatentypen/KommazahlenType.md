@@ -1,5 +1,11 @@
 # Kommazahlen Typen
 
+## Rust 
+| Art       | Speichergröße          | 
+| ------------- |:-------------:|
+|f32|IEEE-754 32-Bit-Gleitkommazahlen|
+|f64|IEEE-754 64-Bit-Gleitkommazahlen|
+
 
 ## Go
 | Art       | Speichergröße          | 
@@ -9,13 +15,7 @@
 |complex64|Komplexe Zahlen mit float32 Real- und Imaginärteilen|
 |Komplex128|Komplexe Zahlen mit float64 Real- und Imaginärteilen|
 
-## Python 
 
-```python
-
-zahl = 1.989
-
-```
 
 ## Javascript
 

@@ -21,7 +21,6 @@
        - [Kommazahlen Typen](./Grundlagen/EinfacheDatentypen/KommazahlenType.md)
        - [Wahrheitswerte Typen](./Grundlagen/EinfacheDatentypen/wahrheitswertetypen.md)
        - [Aufzählungstypen](./Grundlagen/EinfacheDatentypen/Aufzaehlungstypen.md)
-       - [Leeredatentypen](./Grundlagen/EinfacheDatentypen/Leeredatentypen.md)
        - [Zeichen](./Grundlagen/EinfacheDatentypen/zeichen.md)
       - [Zeigertypen](./Grundlagen/Zeigertypen.md)
         - [Einfache Zeiger](./Grundlagen/Zeiger/EinfacheZeiger.md)
