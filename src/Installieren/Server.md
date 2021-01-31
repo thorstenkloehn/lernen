@@ -16,6 +16,11 @@ sudo apt install tomcat9 tomcat9-admin
 sudo systemctl enable tomcat9
 sudo systemctl disable tomcat9
 sudo nano /etc/tomcat9/tomcat-users.xml
+sudo systemctl stop ahrensburg.service
+```
+* [Cerbort](https://certbot.eff.org/lets-encrypt/ubuntufocal-other)
+````
+
 sudo systemctl restart tomcat9
 
 ```

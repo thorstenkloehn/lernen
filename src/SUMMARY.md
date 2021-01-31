@@ -2,7 +2,7 @@
 
 
 - [Meine Projekte](./MeineProjekt.md)
-
+- [Server Mieten](./Server_Mieten.md)
 ## Grundlagen 
 
 - [Installieren]()
