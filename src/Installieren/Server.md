@@ -7,33 +7,17 @@ apt-get install  gnupg
 
 ```
 
-## Tomcat
+
+
+## Go
 
 ```
-sudo apt-get update 
-sudo apt-get upgrade
-sudo apt install tomcat9 tomcat9-admin
-sudo systemctl enable tomcat9
-sudo systemctl disable tomcat9
-sudo nano /etc/tomcat9/tomcat-users.xml
-sudo systemctl stop ahrensburg.service
-```
-* [Cerbort](https://certbot.eff.org/lets-encrypt/ubuntufocal-other)
-````
-
-sudo systemctl restart tomcat9
+wget https://golang.org/dl/go1.15.7.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.15.7.linux-amd64.tar.gz
 
 ```
 
-### Go
-
-```
-wget https://golang.org/dl/go1.15.6.linux-amd64.tar.gz
-sudo tar -C /usr/local -xzf go1.15.6.linux-amd64.tar.gz
-
-```
-
-### bash.bashrc
+## bash.bashrc
 
 ```
 sudo nano /etc/bash.bashrc
