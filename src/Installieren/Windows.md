@@ -4,8 +4,8 @@
 
 ```
 
-setx CARGO_HOME = e:\CARGO_HOME
-setx RUSTUP_HOME = e:\RUSTUP_HOME
+setx CARGO_HOME  e:\CARGO_HOME
+setx RUSTUP_HOME  e:\RUSTUP_HOME
 
 
 ```
@@ -47,7 +47,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Go Installieren](https://golang.org)
 * [Nodjes Installieren](https://nodejs.org/en/download/)
 * [Rust](https://forge.rust-lang.org/infra/other-installation-methods.html)
-
+* [Python](https://www.python.org/downloads/)
 
 ## IDE
 
