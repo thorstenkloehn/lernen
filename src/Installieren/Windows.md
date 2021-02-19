@@ -6,7 +6,8 @@
 
 setx CARGO_HOME  e:\CARGO_HOME
 setx RUSTUP_HOME  e:\RUSTUP_HOME
-
+setx TEMP e:\AppData\Local\Temp
+setx TMP e:\AppData\Local\Temp
 
 ```
 
