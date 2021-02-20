@@ -13,6 +13,7 @@
   - [Windows](./Installieren/Windows.md)
     - [Mysql](./Installieren/Windows/Mysql.md)
     - [Monodb](./Installieren/Windows/Monodb.md)
+    - [Java](./Installieren/Java.md)
   - [Server](./Installieren/Server.md)
     - [Minio Server](./Installieren/MinioServer.md)
   - [Linux Deskop](./Installieren/LinuxDeskop.md)
