@@ -2,6 +2,7 @@
 
 - [Meine Projekte](./MeineProjekt.md)
 - [Server Mieten](./Server_Mieten.md)
+- [CMS test](./cms.md)
 
 ## Jupyter
 - [Jupyter]()

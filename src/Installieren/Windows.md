@@ -9,6 +9,10 @@ setx RUSTUP_HOME  e:\RUSTUP_HOME
 setx TEMP e:\AppData\Local\Temp
 setx TMP e:\AppData\Local\Temp
 
+setx NUGET_PACKAGES e:\NUGET_PACKAGES
+setx NUGET_HTTP_CACHE_PATH e:\NUGET_HTTP_CACHE_PATH
+setx NUGET_PLUGINS_CACHE_PATH e:\NUGET_PLUGINS_CACHE_PATH
+
 ```
 
 
@@ -51,6 +55,8 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Python](https://www.python.org/downloads/)
 * [Java](https://aws.amazon.com/de/corretto/)
 * [PHP](https://www.php.net/)
+* [Dotnet](https://dotnet.microsoft.com/download/dotnet)
+
 ## IDE
 
 ### Software
@@ -60,7 +66,15 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Clion](https://www.jetbrains.com/clion/)
 
 
+#### IntelliJ Rider Einstellung
 
+```
+idea.config.path = e:/rider/idea/config/path
+idea.system.path = e:/rider/idea/system/path
+idea.plugins.path = e:/rider/idea/plugins/path
+idea.log.path = e:/rider/idea/log/path
+
+```
 
 #### IntelliJ IDEA Einstellung
 
