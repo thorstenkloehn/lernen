@@ -65,6 +65,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)
 * [Clion](https://www.jetbrains.com/clion/)
 * [Rider](https://www.jetbrains.com/de-de/rider/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
 #### IntelliJ Rider Einstellung
 
