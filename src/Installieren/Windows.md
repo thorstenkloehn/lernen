@@ -67,15 +67,18 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Rider](https://www.jetbrains.com/de-de/rider/)
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-#### IntelliJ Rider Einstellung
+### Visual Studio Code
+
+* [Visual Studio Code Zip](https://code.visualstudio.com/)
 
 ```
-idea.config.path = e:/rider/idea/config/path
-idea.system.path = e:/rider/idea/system/path
-idea.plugins.path = e:/rider/idea/plugins/path
-idea.log.path = e:/rider/idea/log/path
+
+mkdir data  erstellen
 
 ```
+
+
+
 
 #### IntelliJ IDEA Einstellung
 
@@ -98,10 +101,19 @@ idea.plugins.path = e:/clion/work/idea/plugins/path
 idea.log.path = e:/clion/work/idea/log/path
 
 ```
+#### IntelliJ Rider Einstellung
 
+```
+idea.config.path = e:/rider/idea/config/path
+idea.system.path = e:/rider/idea/system/path
+idea.plugins.path = e:/rider/idea/plugins/path
+idea.log.path = e:/rider/idea/log/path
+
+```
 
 
 ## Datenbank
+
 * [postgresql](https://www.postgresql.org/download/)
 * [Apache Cassandra]()
 * [Neo4j](https://neo4j.com/download-center/?ref=web-product-database/#community)
