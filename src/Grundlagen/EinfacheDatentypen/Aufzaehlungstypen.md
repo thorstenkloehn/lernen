@@ -1,3 +1,0 @@
-# Aufzählungstypen
-
-## Enum
