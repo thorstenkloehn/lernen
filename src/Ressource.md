@@ -1,65 +1,17 @@
 # Ressource
+## C#
 
-## Rust
-
-* [Die Programmiersprache Rust Free](https://github.com/rust-lang-de/rustbook-de)
-* [Rust by Example](http://rustbyexample.com/)  
-* [Learning Rust](https://subscription.packtpub.com/book/application_development/9781785884306)
-* [Rust Cookbook](https://subscription.packtpub.com/book/application_development/9781785880254)
-* [Rust Standard Library Cookbook](https://subscription.packtpub.com/book/application_development/9781788623926)
-* [Rust Programming By Example](https://subscription.packtpub.com/book/application_development/9781788390637)
-* [Rust Quick Start Guide](https://subscription.packtpub.com/book/application_development/9781789616705)
-* [Rust in Action](https://www.manning.com/books/rust-in-action)
-
+* [Die komplette C# Masterclass - von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/die-komplette-csharp-masterclass/)
+* [Entity Framework (EF) core Komplettkurs: Datenzugriff mit C#](https://www.udemy.com/course/entity-framework-core-datenzugriff-mit-csharp/)
 ## Go
+## Java
+* [Die komplette Java 11 Masterclass -von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/java-11-masterclass)
+* [Spring und Hibernate für Anfänger (mit Spring Boot 2)](https://www.udemy.com/course/spring-beginner)
+## Node
 
-* [Go Allgemein](https://www.tutorialspoint.com/go)
-* [Einführung in Go](https://www.udemy.com/course/einfuhrung-in-go/)
-* [http://www.golang-book.com/](http://www.golang-book.com/)
-* [Go Bootcamp](http://www.golangbootcamp.com/)
-* [Go in Action](https://www.manning.com/books/go-in-action)
-* [Go Programming Blueprints - Second Edition](https://subscription.packtpub.com/book/application_development/9781786468949)
-* [Get Programming with Go](https://www.manning.com/books/get-programming-with-go)
-* [Learning Go Programming](https://subscription.packtpub.com/book/application_development/9781784395438)
+* [Die komplette JavaScript Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett)
+* [Der komplette NodeJS Kurs - Vom Anfänger zum Profi](https://www.udemy.com/course/derkomplettenodejskur)
 
-### Go Web Enntwickeln
+## Python
 
-* [Webapps in Go the anti textbook Free](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
-* [Mastering Go Web Services](https://subscription.packtpub.com/book/web_development/9781783981304)
-* [Go Web Programming](https://www.manning.com/books/go-web-programming)
-
-## Javascript
-
-* [Allgemein Javascript](https://www.tutorialspoint.com/javascript)
-* [Die komplette JavaScript Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett/)
-
-## Datenbank
-
-### Relationale Datenbank
-
-* [Go](http://go-database-sql.org/)
-
-### ORM
-
-* [GORM](https://gorm.io/)
-#### Mysql 
-
-* [Mysql Allgemein](https://www.tutorialspoint.com/mysql)
-
-#### PostgreSQL Datenbank
-
-* [PostgreSQL Allgemein](https://www.tutorialspoint.com/postgresql/)
-
-* [Die komplette SQL Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/sql-komplett/)
-
-### MongoDB
-
-* [Monodb](https://www.tutorialspoint.com/mongodb)
-
-### Cassandra
-
-* [Cassandra](https://www.tutorialspoint.com/cassandra)
-
-### Neo4j
-
-* [Allgemein Neo4j](https://www.tutorialspoint.com/neo4j)
+* [Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science](https://www.udemy.com/course/python-bootcamp)
