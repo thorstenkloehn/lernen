@@ -8,7 +8,6 @@ apt-get install  gnupg
 ```
 
 
-
 ## Go
 
 ```
@@ -16,18 +15,6 @@ wget https://golang.org/dl/go1.15.7.linux-amd64.tar.gz
 sudo tar -C /usr/local -xzf go1.15.7.linux-amd64.tar.gz
 
 ```
-
-## PHP
-
-```
-
-sudo apt install php-cli php-fpm php-mysql
-
-
-
-
-```
-
 
 ## bash.bashrc
 
@@ -50,6 +37,24 @@ wget -c https://dev.mysql.com/get/mysql-apt-config_0.8.16-1_all.deb
 sudo dpkg -i mysql-apt-config*
 sudo apt update
 sudo apt-get install mysql-server
+
+```
+
+
+## Apache Zeppelin 
+
+```
+mkdir /zeppelin
+sudo apt-get install openjdk-8-jdk-headless 
+wget https://downloads.apache.org/zeppelin/zeppelin-0.9.0/zeppelin-0.9.0-bin-all.tgz
+sudo tar -C /zeppelin -xzf zeppelin-0.9.0-bin-all.tgz
+cd /zeppelin/zeppelin-0.9.0-bin-all
+cp conf/shiro.ini.template conf/shiro.ini
+cd conf
+nano shiro.ini
+cd ..
+bin/zeppelin-daemon.sh start
+
 
 ```
 
