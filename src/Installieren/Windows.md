@@ -67,15 +67,8 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Clion](https://www.jetbrains.com/clion/)
 * [Rider](https://www.jetbrains.com/de-de/rider/)
 
-### Visual Studio Code
 
-* [Visual Studio Code Zip](https://code.visualstudio.com/)
 
-```
-
-mkdir data  erstellen
-
-```
 
 
 
