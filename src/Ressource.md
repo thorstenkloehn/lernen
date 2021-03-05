@@ -19,9 +19,11 @@
 
 * [Die komplette JavaScript Masterclass: Vom Anfänger zum Profi](https://www.udemy.com/course/javascript-komplett)
 * [Der komplette NodeJS Kurs - Vom Anfänger zum Profi](https://www.udemy.com/course/derkomplettenodejskur)
+* [w3schools](https://www.w3schools.com/js/)
 
 ## Python
 
+* [w3schools](https://www.w3schools.com/python/default.asp)
 * [Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science](https://www.udemy.com/course/python-bootcamp)
 
 ## Rust
