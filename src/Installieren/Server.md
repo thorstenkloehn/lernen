@@ -58,6 +58,22 @@ bin/zeppelin-daemon.sh start
 
 ```
 
+## Python Installieren
+
+```
+sudo apt install python3 python3-dev git curl python-is-python3 
+
+```
+## JupyterHub
+
+```
+curl -L https://tljh.jupyter.org/bootstrap.py | sudo -E python3 - --admin user:password
+sudo tljh-config set http.port 8088
+sudo tljh-config reload proxy
+
+
+```
+
 ## PostgreSQL
 
 ```

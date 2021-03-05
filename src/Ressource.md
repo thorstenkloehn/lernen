@@ -22,3 +22,19 @@
 ## Python
 
 * [Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science](https://www.udemy.com/course/python-bootcamp)
+
+## Rust
+
+- [Rust](https://www.rust-lang.org/)
+- [The Book](https://doc.rust-lang.org/book/)
+- [Rustlings Course](https://github.com/rust-lang/rustlings/)
+- [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/)
+- [Async Programming](https://rust-lang.github.io/async-book/)
+- [Rustup](https://www.rust-lang.org/tools/install)
+- [Cargo Book](https://doc.rust-lang.org/cargo/index.html)
+- [Crates.io](https://crates.io/)
+
+## C
+* [C Komplettkurs: Praxisnahe Programmierung für C Einsteiger](https://www.udemy.com/course/c-programmierung-praxisnaher-komplettkurs-fur-einsteiger/)
+## C++
+* [C++ Komplettkurs: Praxisnahe und Moderne C++ Programmierung](https://www.udemy.com/course/der-komplettkurs-zur-modernen-c-programmierung/)
