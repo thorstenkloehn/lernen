@@ -1,6 +1,7 @@
 # Ressource
 ## C#
 
+* [C# Allgemein](https://www.tutorialspoint.com/csharp/index.htm)
 * [Die komplette C# Masterclass - von 0 auf 100 in 6 Wochen](https://www.udemy.com/course/die-komplette-csharp-masterclass/)
 * [Entity Framework (EF) core Komplettkurs: Datenzugriff mit C#](https://www.udemy.com/course/entity-framework-core-datenzugriff-mit-csharp/)
 * [.NET 5](https://devblogs.microsoft.com/dotnet/introducing-net-5)
@@ -24,7 +25,6 @@
 * [Python Bootcamp: Vom Anfänger zum Profi, inkl. Data Science](https://www.udemy.com/course/python-bootcamp)
 
 ## Rust
-
 - [Rust](https://www.rust-lang.org/)
 - [The Book](https://doc.rust-lang.org/book/)
 - [Rustlings Course](https://github.com/rust-lang/rustlings/)
