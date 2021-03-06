@@ -9,9 +9,6 @@ setx RUSTUP_HOME  e:\RUSTUP_HOME
 setx TEMP e:\AppData\Local\Temp
 setx TMP e:\AppData\Local\Temp
 
-setx NUGET_PACKAGES e:\NUGET_PACKAGES
-setx NUGET_HTTP_CACHE_PATH e:\NUGET_HTTP_CACHE_PATH
-setx NUGET_PLUGINS_CACHE_PATH e:\NUGET_PLUGINS_CACHE_PATH
 
 
 ```
@@ -55,8 +52,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Rust](https://forge.rust-lang.org/infra/other-installation-methods.html)
 * [Python](https://www.python.org/downloads/)
 * [Java](https://aws.amazon.com/de/corretto/)
-* [PHP](https://www.php.net/)
-* [Dotnet](https://dotnet.microsoft.com/download/dotnet)
+
 
 ## IDE
 
@@ -65,7 +61,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 
 * [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)
 * [Clion](https://www.jetbrains.com/clion/)
-* [Rider](https://www.jetbrains.com/de-de/rider/)
+
 
 
 
