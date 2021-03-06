@@ -106,6 +106,13 @@ idea.log.path = e:/rider/idea/log/path
 
 ```
 
+### Visual Studio-Code
+
+* [Visual Studio Code Zip](https://code.visualstudio.com/)
+
+`` `
+mkdir data erstellt
+`` `
 
 
 ## Datenbank
