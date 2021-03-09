@@ -40,6 +40,13 @@ sudo apt-get install mysql-server
 
 ```
 
+## PHP
+
+```
+
+sudo apt install php-cli php-fpm php-mysql
+
+```
 
 ## Apache Zeppelin 
 
