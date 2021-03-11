@@ -50,7 +50,6 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Go Installieren](https://golang.org)
 * [Nodejs](https://nodejs.org/en/download/)  
 * [Java](https://aws.amazon.com/de/corretto/)
-* [Python](https://www.python.org/downloads/windows/)
 
 ## IDE
 
