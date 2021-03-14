@@ -50,55 +50,7 @@ pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake
 * [Go Installieren](https://golang.org)
 * [Nodejs](https://nodejs.org/en/download/)  
 * [Java](https://aws.amazon.com/de/corretto/)
-* [Python](https://www.python.org/downloads/)
-* [R](https://www.r-project.org)
 
-## IDE
-
-### Software
-
-
-* [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea)
-* [Clion](https://www.jetbrains.com/clion/)
-
-
-
-
-
-
-
-
-#### IntelliJ IDEA Einstellung
-
-```
-
-# custom IntelliJ IDEA properties
-
-idea.config.path = e:/work/idea/config/path
-idea.system.path = e:/work/idea/system/path
-idea.plugins.path = e:/work/idea/plugins/path
-idea.log.path = e:/work/idea/log/path
-```
-#### Clion Einstellung
-
-```
-
-idea.config.path = e:/clion/work/idea/config/path
-idea.system.path = e:/clion/work/idea/system/path
-idea.plugins.path = e:/clion/work/idea/plugins/path
-idea.log.path = e:/clion/work/idea/log/path
-
-```
-
-
-
-### Visual Studio-Code
-
-* [Visual Studio Code Zip](https://code.visualstudio.com/)
-
-`` `
-mkdir data erstellt
-`` `
 
 
 ## Datenbank
