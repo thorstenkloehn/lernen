@@ -41,7 +41,7 @@ setx TMP e:\AppData\Local\Temp
 #### MSYS2 Console eingeben
 
 ``` 
-pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake 
+pacman -S mingw-w64-x86_64-toolchain base-devel mingw-w64-x86_64-cmake mingw-w64-x86_64-python-pip mingw-w64-x86_64-python mingw-w64-x86_64-rust
 
 ```
 
